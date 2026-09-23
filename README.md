@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create an HTML employee table using semantic table elements and CSS.
+Create an HTML page with Embedded CSS and Enhance a table.
 
 Your table should contain:
 
