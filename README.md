@@ -52,7 +52,7 @@ Total years of service: **135**
 
 ## Instructions
 
-Edit `index.html`.
+Edit ``starter/index.html``.
 
 Do not modify the automated tests.
 
